@@ -1,0 +1,29 @@
+ตัวอย่างที่ 1 (ตัวเลขที่ขีดเส้นใต้คืออินพุตจากผู้ใช้)
+
+Please input k: 0
+
+Invalid input!!!
+
+
+
+ตัวอย่างที่ 2 
+
+Please input k: 2
+
+Result = 25000000
+
+ 
+
+ตัวอย่างที่ 3
+
+Please input k: 3
+
+Result = 8326666
+
+
+
+ตัวอย่างที่ 4 
+
+Please input k: 10000000
+
+Result = 25000000
