@@ -48,3 +48,43 @@ int main(){
     cout >> "Palindrome: "
     return 0;
 }
+
+
+
+ตัวอย่างที่ 1 (ข้อความหรือตัวเลขที่ขีดเส้นใต้คืออินพุตจากผู้ใช้)
+
+Input text: apple
+
+Reversed text: elppa
+
+Palindrome: No
+
+ 
+
+ตัวอย่างที่ 2 
+
+Input text: MOM
+
+Reversed text: MOM
+
+Palindrome: Yes
+
+ 
+
+ตัวอย่างที่ 3  
+
+Input text: LevEl
+
+Reversed text: lEveL
+
+Palindrome: Yes
+
+ 
+
+ตัวอย่างที่ 4  
+
+Input text: Happy
+
+Reversed text: yppaH
+
+Palindrome: No
